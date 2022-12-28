@@ -1,0 +1,8 @@
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\bin\Debug\Task2 (Perfect Numbers).exe.config
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\bin\Debug\Task2 (Perfect Numbers).exe
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\bin\Debug\Task2 (Perfect Numbers).pdb
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\obj\Debug\Task2 (Perfect Numbers).csproj.AssemblyReference.cache
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\obj\Debug\Task2 (Perfect Numbers).csproj.SuggestedBindingRedirects.cache
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\obj\Debug\Task2 (Perfect Numbers).csproj.CoreCompileInputs.cache
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\obj\Debug\Task2 (Perfect Numbers).exe
+C:\Users\LapTechnology\Desktop\Discrete math tasks\Task 1 (Prime Numbers)\Task2 (Perfect Numbers)\Task2 (Perfect Numbers)\obj\Debug\Task2 (Perfect Numbers).pdb
